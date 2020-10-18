@@ -1,2 +1,0 @@
-# notambuk.github.io
-myWebSite
